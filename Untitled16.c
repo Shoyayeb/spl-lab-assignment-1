@@ -18,6 +18,6 @@ void main(){
             }
         }
         if(!doesExist)
-            printf("%d",arrayA[i]);
+            printf("%d ",arrayA[i]);
     }
 }
